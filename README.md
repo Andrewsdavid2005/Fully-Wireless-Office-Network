@@ -1,6 +1,6 @@
-# 📡 Fully Wireless Office Network
+# Fully Wireless Office Network
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates the design and implementation of a fully wireless office network using Cisco Packet Tracer.
 
@@ -10,7 +10,7 @@ The project focuses on understanding WLAN concepts, wireless client connectivity
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Understand Wireless LAN (WLAN) architecture
 - Configure a wireless Access Point
@@ -24,7 +24,7 @@ The project focuses on understanding WLAN concepts, wireless client connectivity
 
 ---
 
-## 🏗️ Network Topology
+## Network Topology
 
 ```text
                     Cisco 2911 Router
